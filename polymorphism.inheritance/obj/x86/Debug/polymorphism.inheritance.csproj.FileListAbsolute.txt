@@ -1,0 +1,4 @@
+C:\19.11.2762\polymorphism.inheritance\polymorphism.inheritance\bin\Debug\polymorphism.inheritance.exe
+C:\19.11.2762\polymorphism.inheritance\polymorphism.inheritance\bin\Debug\polymorphism.inheritance.pdb
+C:\19.11.2762\polymorphism.inheritance\polymorphism.inheritance\obj\x86\Debug\polymorphism.inheritance.exe
+C:\19.11.2762\polymorphism.inheritance\polymorphism.inheritance\obj\x86\Debug\polymorphism.inheritance.pdb
